@@ -1,1 +1,18 @@
-data-a2a-scroll-show="0,60"
+#This snippet should make the snippet in social-icons-share hide on scroll.
+
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; left:50%; transform:translateX(-50%);">
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+<a class="a2a_button_x"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_threads"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_snapchat"></a>
+<a class="a2a_button_reddit"></a>
+</div>
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.num_services = 6;
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
