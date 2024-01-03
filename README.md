@@ -15,5 +15,5 @@ Please send an e-mail to ghost@cloudfrl.com with some basic information and whet
 cloudfrl.com is located in The Netherlands, but we target a worldwide audience. 
 The 'frl' in CloudFRL is actually an abreviation for Fryslân, a province in the Northern part of the country. 
 
-Please be aware that cloudfrl.com is just getting started and serving to a huge audience yet. 
+Please be aware that cloudfrl.com is just getting started and isn't serving to huge audience yet. 
 However, you could make the difference. If you found one of our articles helpful or simply just enjoyed in, please share it with your friends, relatives and/or colleagues. 
